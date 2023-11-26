@@ -2258,7 +2258,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -2269,7 +2269,7 @@
               <h1 class="modal-title fs-5 title-cars" id="bmw_modalLabel">ЧИП-ТЮНИНГ BMW 1 СЕРИЯ</h1><button type="button" class="btn-close" data-bs-target="#bmw_modal" data-bs-toggle="modal"></button>
             </div>
             <div class="modal-body"></div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -2366,7 +2366,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -2417,7 +2417,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -2478,7 +2478,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -2620,7 +2620,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -2746,7 +2746,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -2836,7 +2836,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -2917,7 +2917,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3015,7 +3015,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3201,7 +3201,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3318,7 +3318,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3408,7 +3408,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3421,7 +3421,7 @@
             <div class="modal-body">
               <div class="table-responsive"></div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3527,7 +3527,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3635,7 +3635,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3760,7 +3760,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3832,7 +3832,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3900,7 +3900,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -3985,7 +3985,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4070,7 +4070,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4113,7 +4113,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4156,7 +4156,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4272,7 +4272,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4397,7 +4397,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4496,7 +4496,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4611,7 +4611,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4701,7 +4701,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4807,7 +4807,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -4931,7 +4931,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5039,7 +5039,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5137,7 +5137,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5270,7 +5270,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5387,7 +5387,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5438,7 +5438,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5489,7 +5489,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5639,7 +5639,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5738,7 +5738,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5846,7 +5846,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5897,7 +5897,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -5948,7 +5948,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -6046,7 +6046,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#bmw-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-dismiss="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button> <button type="button" class="btn btn-dark" data-bs-target="#bmw_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>

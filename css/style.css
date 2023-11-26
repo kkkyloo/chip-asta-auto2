@@ -479,6 +479,7 @@ figure.effect-text-four:hover p {
     .table {
         font-size: 16px !important;
     }
+
     .hover-text-one figure p {
         font-size: 82%;
     }
@@ -490,6 +491,7 @@ figure.effect-text-four:hover p {
     .hover-text-one figure h4 {
         font-size: 82%;
     }
+
     .images-logo2 {
         width: 18vw !important;
         height: auto !important;
@@ -792,4 +794,4 @@ figure.effect-text-four:hover p {
         background-position: center !important;
         background-position: 99% 0vw !important;
     }
-} 
+}

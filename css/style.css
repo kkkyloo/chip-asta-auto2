@@ -1,0 +1,798 @@
+.logo-asta {
+    top: 1.8vw;
+    position: absolute;
+    z-index: 99;
+    left: 4.8vw;
+    font-size: 2.06vw;
+}
+
+#navmob {
+    display: none;
+
+}
+
+#moreText {
+    display: none;
+}
+
+.logo-asta2 {
+    top: 1.8vw;
+    position: absolute;
+    z-index: 99;
+    left: 18.8vw;
+    font-size: 2.06vw;
+}
+
+.logo-city {
+    top: 4.2vw;
+    position: absolute;
+    z-index: 99;
+    left: 4.8vw;
+    font-size: 1.1vw;
+}
+
+.logo-adress {
+    top: 5.7vw;
+    position: absolute;
+    z-index: 99;
+    left: 4.8vw;
+    font-size: 0.79vw;
+}
+
+.logo-phone {
+    top: 6.8vw;
+    position: absolute;
+    z-index: 99;
+    left: 4.8vw;
+    font-size: 0.79vw;
+}
+
+.images-logo2 {
+    width: 4vw !important;
+    height: auto !important;
+}
+
+.up {
+    display: inline-block;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.up:hover {
+    transform: scale(1.08);
+}
+
+.caption {
+    line-height: 3vw;
+    font-size: 2.6vw;
+    text-align: left;
+    top: 1vw;
+    left: 4.8vw;
+}
+
+.carousel-control-prev-icon {
+    position: absolute;
+    left: 2vw;
+}
+
+.carousel-control-next-icon {
+    position: absolute;
+    right: 2vw;
+}
+
+.carousel {
+    margin-top: 10vw;
+}
+
+.c-item {
+    max-width: 100%;
+    min-height: 29vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+body {
+    background-color: #252a2e;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    overflow-y: overlay;
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-display: swap;
+    font-weight: bold;
+    font-style: normal;
+    src: url("../font/Inter-ExtraBold.woff2");
+}
+
+.info {
+    display: none;
+}
+
+.bmw::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.mers::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.audi::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.bmw-sel {
+    text-align: center;
+    color: black;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.no-dur {
+    text-decoration: none;
+    color: white;
+}
+
+.no-dur:hover {
+    color: rgb(190, 190, 190);
+}
+
+.no-dur2 {
+    text-decoration: none;
+    color: white;
+}
+
+.no-dur2:hover {
+    color: white;
+}
+
+.under {
+    text-decoration: underline;
+}
+
+.pulse {
+    position: fixed;
+    text-align: center;
+    right: 3.9vw;
+    top: 80vh;
+    border-radius: 100%;
+    background: #272727;
+    width: 3vw;
+    height: 3vw;
+    z-index: 111;
+}
+
+.pulse::before {
+    content: '';
+    position: absolute;
+    border: 0.1vw solid #EEEAE0;
+    left: -0.5vw;
+    opacity: 0;
+    right: -0.5vw;
+    top: -0.5vw;
+    bottom: -0.5vw;
+    border-radius: 0.5vw;
+    animation: pulse 2.5s linear infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(1.2);
+        opacity: 0;
+    }
+}
+
+.pulse::after,
+.pulse::before {
+    content: '';
+    position: f;
+    border: 0.1vw solid #EEEAE0;
+    left: -0.5vw;
+    opacity: 0;
+    right: -0.5vw;
+    top: -0.5;
+    bottom: -0.5x;
+    border-radius: 50%;
+    animation: pulse 1.5s linear infinite;
+}
+
+.pulse::after {
+    animation-delay: 1.25s;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(1.2);
+        opacity: 0;
+    }
+}
+
+.asta_info {
+    font-size: 2vw !important;
+    margin-top: 1vh !important;
+}
+
+.opis_comp {
+    font-size: 2vw !important;
+}
+
+.footer {
+    font-size: 0.9vw;
+}
+
+.contact_tg_img {
+    width: 1.9vw !important;
+    margin-right: 0.1vw !important;
+}
+
+.telegram {
+    font-size: 1.2vw !important;
+}
+
+.contact_up_img {
+    padding-top: 1vw !important;
+}
+
+.nav-mob {
+    line-height: 11vw;
+    font-size: 4.7vw;
+}
+
+.navbar-brand {
+    font-size: 10vw;
+}
+
+.cont {
+    font-size: 2vw !important;
+}
+
+.mess_numb {
+    font-size: 1.4vw !important;
+    margin-top: 1vw !important;
+}
+
+.tel {
+    font-size: 1.1vw !important;
+}
+
+.contact-modal {
+    color: black;
+}
+
+.contact_call_img {
+    width: 1.3vw !important;
+    margin-right: 0.5vw !important;
+}
+
+.nav-asta {
+    font-size: 0.9vw;
+}
+
+.nav-text1 {
+    position: absolute;
+    z-index: 99;
+    left: 40vw;
+    top: 2.6vw;
+}
+
+.nav-text3 {
+    position: absolute;
+    z-index: 99;
+    left: 55.2vw;
+    top: 2.6vw;
+}
+
+.nav-text4 {
+    position: absolute;
+    z-index: 99;
+    left: 73.3vw;
+    top: 2.6vw;
+}
+
+.nav-text5 {
+    position: absolute;
+    z-index: 99;
+    left: 90.3vw;
+    top: 2.6vw;
+}
+
+
+.no_select {
+    pointer-events: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+.modal:nth-of-type(even) {
+    z-index: 1052 !important;
+}
+
+.modal-backdrop.show:nth-of-type(even) {
+    z-index: 1051 !important;
+}
+
+.hover-text-one figure {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.hover-text-one figure figcaption {
+    padding: 2em;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.25em;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.hover-text-one figure figcaption::before,
+.hover-text-one figure figcaption::after {
+    pointer-events: none;
+}
+
+.hover-text-one figure figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.hover-text-one figure h4,
+.hover-text-one figure p {
+    margin: 0;
+    text-align: center;
+}
+
+.hover-text-one figure p {
+    font-size: 75%;
+}
+
+.hover-text-one figure h4 {
+    font-size: 81%;
+}
+
+figure.effect-text-four figcaption {
+    text-align: right;
+}
+
+figure.effect-text-four h4,
+figure.effect-text-four p {
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    padding: 4px 0;
+}
+
+figure.effect-text-four p {
+    bottom: 15%;
+    line-height: 1.42;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+}
+
+figure.effect-text-four h4 {
+    top: 69%;
+    color: black;
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: transform 0.35s;
+    -webkit-transform: translate3d(0, 20px, 0);
+    transform: translate3d(0, 20px, 0);
+}
+
+figure.effect-text-four:hover h4 {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+figure.effect-text-four h4::after {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    content: '';
+    -webkit-transform: translate3d(0, 40px, 0);
+    transform: translate3d(0, 40px, 0);
+}
+
+figure.effect-text-four h4::after,
+figure.effect-text-four p {
+    opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    background-color: black;
+}
+
+figure.effect-text-four:hover h4::after,
+figure.effect-text-four:hover p {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.mob-navbar {
+    display: none !important;
+}
+
+@media (max-width: 600px),
+(max-width: 900px) and (max-height: 1250px) and (min-width: 700px) and (min-height: 900px),
+(max-width: 1100px) and (min-height: 1280px) and (min-width: 950px) and (max-height: 1400px) {
+    .table {
+        font-size: 16px !important;
+    }
+    .hover-text-one figure p {
+        font-size: 82%;
+    }
+
+    figure.effect-text-four h4 {
+        top: 74%;
+    }
+
+    .hover-text-one figure h4 {
+        font-size: 82%;
+    }
+    .images-logo2 {
+        width: 18vw !important;
+        height: auto !important;
+        /* margin-bottom: 5vw !important; */
+    }
+
+    header {
+        display: none !important;
+    }
+
+    .mob-navbar {
+        display: block !important;
+    }
+
+    #navmob {
+        display: block !important;
+    }
+
+    .bmw {
+        background-image: url('../images/slider_webp/bmw_mob.webp') !important;
+    }
+
+    .mers {
+        background-image: url('../images/slider_webp/mers_mob.webp') !important;
+    }
+
+    .audi {
+        background-image: url('../images/slider_webp/audi_mob.webp') !important;
+
+    }
+
+    .carousel {
+        margin-top: 0vw !important;
+    }
+
+    .c-item {
+        background-size: cover !important;
+        min-height: 53vh !important;
+        background-position: center !important;
+        background-position: 99% 0vw !important;
+        /* background-size: 250vw auto !important; */
+    }
+
+    .caption {
+        font-size: 7.8vw !important;
+        line-height: 8.4vw !important;
+        top: -0.5vh !important;
+        text-align: center !important;
+        left: 0vw !important;
+        min-width: 100% !important;
+    }
+
+    .asta_info {
+        max-width: 100% !important;
+    }
+
+
+    .opis_comp {
+        font-size: 7.5vw !important;
+        margin-top: 1vw !important;
+    }
+
+    .opis {
+        font-size: 4vw !important;
+        margin-top: 1vw !important;
+    }
+
+    .opis_search {
+        font-size: 7.3vw !important;
+        margin-top: 2vw !important;
+    }
+
+    .contact_map {
+        width: 100% !important;
+        height: 50vh !important;
+
+
+    }
+
+    .map {
+        margin-top: 2vw !important;
+        width: 100% !important;
+        padding-left: 9vw !important;
+    }
+
+    .cont {
+        font-size: 8vw !important;
+    }
+
+    .mess_numb {
+        font-size: 5vw !important;
+        margin-top: 1vw !important;
+    }
+
+    .tel {
+        font-size: 4.3vw !important;
+        margin-top: -1vw !important;
+    }
+
+
+    .fot,
+    .last {
+        font-size: 3.7vw !important;
+    }
+
+    .pulse {
+        top: 80vh;
+        width: 7vh;
+        height: 7vh;
+    }
+
+    .telegram {
+        font-size: 5vw !important;
+    }
+
+    .contact_tg_img {
+        width: 8vw !important;
+        margin-right: 1vw !important;
+    }
+
+    .contact_call_img {
+        width: 6vw !important;
+        margin-right: 2vw !important;
+    }
+
+
+    .fot {
+        padding-left: 10% !important;
+        padding-right: 10% !important;
+
+    }
+
+    .up_cont,
+    .footer {
+        padding-bottom: 3vw !important;
+        padding-top: 3vw !important;
+    }
+
+    .contact_up_img {
+        width: 13vw !important;
+    }
+}
+
+/* xr, 12pro */
+@media(max-width: 450px) and (max-height: 920px) and (min-height: 800px) and (min-width: 370px) {
+    .c-item {
+        background-size: cover !important;
+        min-height: 46vh !important;
+        background-position: center !important;
+        background-position: 97% 0vw !important;
+    }
+}
+
+/* s8 */
+@media(max-width: 390px) and (max-height: 800px) and (min-height: 700px) and (min-width: 300px) {
+    .c-item {
+        background-size: cover !important;
+        min-height: 50vh !important;
+        background-position: center !important;
+        background-position: 96% 0vw !important;
+    }
+}
+
+/* s20 */
+
+@media(max-width: 430px) and (max-height: 950px) and (min-height: 880px) and (min-width: 370px) {
+    .c-item {
+        background-size: cover !important;
+        min-height: 45vh !important;
+        background-position: center !important;
+        background-position: 97% 0vw !important;
+    }
+}
+
+
+/* fold */
+@media(max-width: 300px) and (max-height: 700px) and (min-height: 600px) and (min-width: 240px) {
+    .c-item {
+        background-size: cover !important;
+        min-height: 43vh !important;
+        background-position: center !important;
+        background-position: 97% 0vw !important;
+    }
+}
+
+/* duo */
+@media(max-width: 600px) and (max-height: 750px) and (min-height: 700px) and (min-width: 500px) {
+    .c-item {
+        background-size: cover !important;
+        min-height: 70vh !important;
+        background-position: center !important;
+        background-position: 99% 0vw !important;
+    }
+}
+
+/* ipad */
+
+@media (max-width: 1100px) and (max-height: 1400px) and (min-width: 750px) and (min-height: 1000px) {
+    .c-item {
+        background-size: cover !important;
+        min-height: 68vh !important;
+        background-position: center !important;
+        background-position: 100% 0vw !important;
+    }
+
+    .caption {
+        font-size: 7vw !important;
+        line-height: 8vw !important;
+        top: 1vh !important;
+        text-align: center !important;
+        left: 0vw !important;
+        min-width: 100% !important;
+        padding: 3vw !important;
+    }
+
+    .navbar-brand {
+        font-size: 7vw !important;
+    }
+
+    .cont_nav {
+        line-height: 6vw !important;
+
+    }
+
+    .nav123 {
+        font-size: 5vw !important;
+
+    }
+
+    .nav-mob {
+        font-size: 4vw !important;
+    }
+
+    .opis_comp {
+        font-size: 6vw !important;
+        margin-top: 1vw !important;
+    }
+
+    .opis {
+        font-size: 3vw !important;
+        margin-top: 1vw !important;
+    }
+
+    .opis_search {
+        font-size: 6vw !important;
+        margin-top: 2vw !important;
+    }
+
+    .cont {
+        font-size: 6vw !important;
+    }
+
+    .mess_numb {
+        font-size: 4vw !important;
+        margin-top: 1vw !important;
+    }
+
+    .tel {
+        font-size: 4vw !important;
+        margin-top: -1vw !important;
+    }
+
+
+    .fot,
+    .last {
+        font-size: 3vw !important;
+    }
+
+    .telegram {
+        font-size: 4vw !important;
+    }
+
+    .contact_tg_img {
+        width: 8vw !important;
+        margin-right: 1vw !important;
+    }
+
+    .contact_call_img {
+        width: 6vw !important;
+        margin-right: 2vw !important;
+    }
+
+    .contact_up_img {
+        width: 13vw !important;
+    }
+}
+
+/* MINI */
+
+@media (max-width: 800px) and (min-height: 980px) and (min-width: 700px) and (max-height: 1200px) {
+    .c-item {
+        background-size: cover !important;
+        min-height: 70vh !important;
+        background-position: center !important;
+        background-position: 99% 0vw !important;
+    }
+}
+
+@media (max-width: 900px) and (max-height: 1250px) and (min-width: 700px) and (min-height: 900px) {
+    .c-item {
+        background-size: cover !important;
+        min-height: 65vh !important;
+        background-position: center !important;
+        background-position: 99% 0vw !important;
+    }
+}

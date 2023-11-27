@@ -6469,7 +6469,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -6555,7 +6555,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -6665,7 +6665,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -6993,7 +6993,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -7719,7 +7719,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -7788,7 +7788,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -7925,7 +7925,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -8295,7 +8295,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -8402,7 +8402,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -8610,7 +8610,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -9070,7 +9070,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -10060,7 +10060,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -10286,7 +10286,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -10478,7 +10478,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -10814,7 +10814,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -10972,7 +10972,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -11266,7 +11266,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -11560,7 +11560,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -11819,7 +11819,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -12044,7 +12044,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -12219,7 +12219,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -12402,7 +12402,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -12505,7 +12505,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -12765,7 +12765,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -12906,7 +12906,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -13404,7 +13404,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -13626,7 +13626,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -13767,7 +13767,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -13942,7 +13942,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -14011,7 +14011,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -14148,7 +14148,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -14251,7 +14251,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -14320,7 +14320,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -14474,7 +14474,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -14560,7 +14560,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mercedes-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mercedes_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -14839,7 +14839,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -15371,7 +15371,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -15943,7 +15943,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -16489,7 +16489,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -17171,7 +17171,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -17522,7 +17522,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -17983,7 +17983,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -18209,7 +18209,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -18452,7 +18452,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -18871,7 +18871,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -19230,7 +19230,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -19345,7 +19345,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -19456,7 +19456,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -19566,7 +19566,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -19676,7 +19676,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -19745,7 +19745,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -19814,7 +19814,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -19957,7 +19957,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -20075,7 +20075,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -20127,7 +20127,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -20187,7 +20187,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -20297,7 +20297,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -20470,7 +20470,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -20643,7 +20643,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -20816,7 +20816,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -20972,7 +20972,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21140,7 +21140,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21200,7 +21200,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21356,7 +21356,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21408,7 +21408,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21460,7 +21460,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21677,7 +21677,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21771,7 +21771,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21881,7 +21881,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#audi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#audi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21926,7 +21926,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -21978,7 +21978,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22039,7 +22039,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22120,7 +22120,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22163,7 +22163,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22260,7 +22260,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22330,7 +22330,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22373,7 +22373,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22425,7 +22425,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#toyota-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#toyota_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22479,7 +22479,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22688,7 +22688,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22829,7 +22829,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -22919,7 +22919,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -23236,7 +23236,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -23394,7 +23394,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -23552,7 +23552,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -23920,7 +23920,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#land_rover-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#land_rover_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -24212,7 +24212,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -24306,7 +24306,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -24443,7 +24443,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -24614,7 +24614,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -25102,7 +25102,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -25290,7 +25290,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -25482,7 +25482,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -26030,7 +26030,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#porshe-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#porshe_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -26075,7 +26075,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#lexus-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#lexus_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#lexus-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#lexus_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -26118,7 +26118,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#lexus-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#lexus_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#lexus-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#lexus_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -26161,7 +26161,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#lexus-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#lexus_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#lexus-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#lexus_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -26372,7 +26372,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -26479,7 +26479,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -26603,7 +26603,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -27058,7 +27058,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -27224,7 +27224,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -27484,7 +27484,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -27591,7 +27591,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -27910,7 +27910,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -28187,7 +28187,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#skoda-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#skoda_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -28313,7 +28313,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -28420,7 +28420,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -28544,7 +28544,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -28906,7 +28906,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -29149,7 +29149,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -29201,7 +29201,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -29580,7 +29580,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -29891,7 +29891,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -30083,7 +30083,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -30173,7 +30173,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -30399,7 +30399,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -30608,7 +30608,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -30715,7 +30715,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volvo-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volvo_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -30837,7 +30837,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -30889,7 +30889,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -30975,7 +30975,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -31027,7 +31027,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -31130,7 +31130,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -31288,7 +31288,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -31357,7 +31357,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#mitsubishi-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#mitsubishi_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -31496,7 +31496,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -31637,7 +31637,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -31706,7 +31706,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -31889,7 +31889,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -32149,7 +32149,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -32392,7 +32392,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -32516,7 +32516,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -32997,7 +32997,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -33149,7 +33149,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -33235,7 +33235,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -33613,7 +33613,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -33839,7 +33839,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -34447,7 +34447,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -34724,7 +34724,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -34848,7 +34848,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -35142,7 +35142,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -35228,7 +35228,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -35280,7 +35280,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -35506,7 +35506,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -35575,7 +35575,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -35750,7 +35750,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -35857,7 +35857,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -36024,7 +36024,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -36453,7 +36453,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -36917,7 +36917,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>
@@ -37126,7 +37126,7 @@
                 </div>
               </div>
             </div>
-            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal">Наши контакты</button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
+            <div class="modal-footer"><button type="button" class="btn btn-success" data-bs-target="#volkswagen-contact" data-bs-toggle="modal"><a href="#contacts2" class="no-dur">Наши контакты</a></button><button type="button" class="btn btn-dark" data-bs-target="#volkswagen_modal" data-bs-toggle="modal">Вернуться</button></div>
           </div>
         </div>
       </div>

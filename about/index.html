@@ -23,7 +23,7 @@
         <nav>
             <a href="https://kkkyloo.github.io/chip-asta-auto2/">
                 <div class="logo-asta no-dur">АСТА<img class="logo-img" src="../images/icons/bmw.webp" alt="Лого BMW"
-                        style="height: 1.9vw; width: auto; margin-top: -1%;">АВТО ЧИП-ТЮНИНГ</div>                
+                        style="height: 1.9vw; width: auto; margin-top: -1%;">АВТО ЧИП-ТЮНИНГ</div>
             </a>
             <div class="logo-city">РОСТОВ-НА-ДОНУ</div>
             <div class="logo-adress"><a href="#how_search" class="no-dur">УЛ. ПЕСКОВА 1В</a></div>
@@ -52,14 +52,15 @@
         <div class="container text-center">
             <div class="row-2 p-3">
                 <div class="col-12 cont_nav" style="line-height: 8vw; margin-top: 3.5vw;">
-                    <a class="no-dur navbar-brand" href="https://kkkyloo.github.io/chip-asta-auto2/">АСТА<img class="bmw-mob"
-                            alt="Лого бмв" src="../images/icons/bmw.webp"
+                    <a class="no-dur navbar-brand" href="https://kkkyloo.github.io/chip-asta-auto2/">АСТА<img
+                            class="bmw-mob" alt="Лого бмв" src="../images/icons/bmw.webp"
                             style="height: 8.9vw; width: auto; margin-top: -1vh;">АВТО</a>
                     <div class="nav123" style="font-size: 7vw;"><a class="no-dur"
                             href="https://kkkyloo.github.io/chip-asta-auto2/">ЧИП-ТЮНИНГ</a></div>
                 </div>
 
-                <div class="col-12 mob-city" style="font-size: 3.8vw; color: white; margin-top: 0%;">Ростов-на-Дону<br>Вт-Сб 09:00-20:00
+                <div class="col-12 mob-city" style="font-size: 3.8vw; color: white; margin-top: 0%;">
+                    Ростов-на-Дону<br>Вт-Сб 09:00-20:00
                 </div>
             </div>
             <div class="row-1 p-3 nav-mob text-center" style=" margin-top: -6%;">
@@ -89,32 +90,68 @@
     <main>
         <div class="container-fluid asta_info" style="max-width: 75%;">
 
-            <div class="row text-center justify-content-center about_chip">
-                <div class="col-11 opis_comp">Что такое чип-тюнинг?</div>
-            </div>
-            <div class="row justify-content-center" style="margin-top: 1vh !important; font-size: 1vw; ">
-                <div class="col-11 opis">Чип-тюнинг — это изменение программы управления двигателем автомобиля для
-                    увеличения его мощности, экономичности или исправления ошибок. Это делается путем перепрограммирования ЭБУ в
-                    автомобиле, после чего повышается мощность и крутящий момент, снижается расход топлива.
-                    <p>Проще
-                        говоря, чип-тюнинг сделает ваш автомобиль более мощным и эффективным.</p>
+            <div class="row justify-content-center about_chip" style="font-size: 1vw; ">
+
+                <div class="col-12 col-xl-6">
+                    <div class="col opis_comp" style="margin-left: 3vw; margin-top: 6vh;">
+                        Что такое чип-тюниг?
+                    </div>
+                    <div class="col opis"
+                        style="font-size: 0.95vw; margin-left: 3vw; margin-top: 1vh; line-height: 3vh; width: 87%;">
+                        Чип-тюнинг – измененение программы блока управления двигателем, что позволяет повысить мощность
+                        автомобиля и снизить расход топлива при разных режимах езды. Любой серийный автомобиль имеет
+                        резерв и запас прочности, ресурс двигателя используется максимум на 80%, а мощность иногда и
+                        специально занижается в маркетинговых целях.
+                        <br><br>
+                        Чип-тюнинг турбированного двигателя может добавить около 15-30% <p id="moreText"> мощности.
+                            Турбонаддув
+                            регулируется блоком управления, а тюнинг-программа позволяет раскрыть потенциал двигателя.
+
+
+
+                
+
+                            <br><br>Чип-тюнинг атмосферного двигателя дает прирост мощности порядка 7-10%, улучшение
+                            отклика
+                            педали
+                            газа, эластичность двигателя и тяги в низком и среднем диапазоне оборотов.
+                            оэтому даже владельцы малолитражных двигателей тоже могут получить свои плюсы -
+                            компенсировать
+                            потери при включении кондиционера или загрузке машины. При чип-тюнинге мы используем
+                            качественные и проверенные немецкие тюнинг-программы, адаптированные под российский рынок.
+                        </p>
+                        <button type="button" class="btn btn-secondary btn-sm" onclick="toggleText()"
+                            id="toggleBtn">Подробнее</button>
+
+                        <!-- <button onclick="toggleText()" id="toggleBtn">Подробнее</button> -->
+                    </div>
                 </div>
+
+                <div class="col-12 col-xl-6 no_select">
+                    <img src="../images/about.jpg" class="img about_img img_none" alt="История чип-тюнинга"
+                        style="width: 100%; height: 35vh; object-fit: cover; filter: brightness(85%); margin-top: 3vh;">
+                </div>
+
+
             </div>
 
-            <div class="about row" style="margin-top: 0vh !important;">
-                <div class="col-12 col-xl-6">
+            <div class="about row" style="margin-top: 5vh !important;">
+                <div class="col-12 col-xl-6 no_select ">
+                    <img src="../images/history.webp" class="img about_img img_none2" alt="История чип-тюнинга"
+                        style="width: 100%; height: 36vh; object-fit: cover; filter: brightness(85%); margin-top: 3vh;">
+                </div>
+                <div class="col-12 col-xl-6 order-xl-last order-first">
                     <div class="col opis_comp" style="margin-left: 3vw; margin-top: 6vh;">
                         История чип-тюнинга
                     </div>
                     <div class="col opis"
-                        style="font-size: 1vw; margin-left: 3vw; margin-top: 1vh; line-height: 3vh; width: 87%;">
+                        style="font-size: 0.95vw; margin-left: 3vw; margin-top: 1vh; line-height: 3vh; width: 87%;">
                         В 1980-х годах с появлением электронной системы управления двигателем (ЭУД) в
                         автомобилях начались первые попытки изменения прошивки чипов для улучшения характеристик
                         двигателя.
                         <br>Основная цель заключалась в оптимизации работы системы впрыска топлива и зажигания для
                         повышения
-                        производительности и экономии топлива
-                        <p id="moreText"><br>После 2010 года появлялись более сложных методы, такие
+                        производительности и экономии топлива<p id="moreText2">.<br><br>После 2010 года появлялись более сложных методы, такие
                             как
                             ремапинг прошивки
                             через диагностический порт, позволяющие специалистам вносить изменения без необходимости
@@ -124,41 +161,18 @@
                             не
                             только на увеличение мощности, но и на оптимизацию работы двигателя с учетом экологических
                             требований и расходов топлива.</p>
-                        <button type="button" class="btn btn-secondary btn-sm" onclick="toggleText()"
-                            id="toggleBtn">Подробнее</button>
-
-                        <!-- <button onclick="toggleText()" id="toggleBtn">Подробнее</button> -->
+                        <button type="button" class="btn btn-secondary btn-sm" onclick="toggleText2()"
+                            id="toggleBtn2">Подробнее</button>
                     </div>
                 </div>
-
-                <div class="col-12 col-xl-6 no_select">
-                    <img src="../images/history.webp" class="img about_img img_none" alt="История чип-тюнинга"
-                        style="width: 100%; height: 36vh; object-fit: cover; filter: brightness(85%); margin-top: 3vh;">
-                </div>
             </div>
-
-            <!-- <div class="row text-center justify-content-center" style="margin-top: 1vh !important;">
-                <div class="col-11 opis_comp">История чип-тюнинга</div>
-            </div>
-            <div class="row justify-content-center" style="margin-top: 1vh !important; font-size: 1vw;">
-                <div class="col-11 opis">В 1980-х годах с появлением электронной системы управления двигателем (ЭУД) в
-                    автомобилях начались первые попытки изменения прошивки чипов для улучшения характеристик двигателя.
-                    <br>Основная цель заключалась в оптимизации работы системы впрыска топлива и зажигания для повышения
-                    производительности и экономии топлива.<br>После 2010 года появлялись более сложных методы, такие как
-                    ремапинг прошивки
-                    через диагностический порт, позволяющие специалистам вносить изменения без необходимости физического
-                    вмешательства. <br>Сегодня чип-тюнинг остается востребованным. Развиваются методы, направленные не
-                    только на увеличение мощности, но и на оптимизацию работы двигателя с учетом экологических
-                    требований и расходов топлива
-                </div>
-            </div> -->
 
             <div class="row text-center justify-content-center" id="about">
                 <div class="col-11 opis_comp" style="margin-top: 3vh !important; font-size: 1vw;">О нашем сервисном
                     центре:
                 </div>
             </div>
-            <div class="row justify-content-center" style="margin-top: 1vh !important; font-size: 1vw;">
+            <div class="row justify-content-center" style="margin-top: 1vh !important; font-size: 0.95vw;">
                 <div class="col-11 opis">Компания "АСТА-АВТО" была создана в 2004 году и сегодня является ведущей
                     компанией
                     Ростова-на-Дону, которая специализируется на продаже запасных частей и аксессуаров, ремонте,
@@ -200,7 +214,8 @@
                     </a><br>
                     <a class="no-dur under tel" href="tel:88632002222"><img src="../images/icons/call.webp"
                             class="contact_call_img" alt="Значок телефона">8 (863) 200-22-22</a><br>
-                            <div class="tel" style="margin-top: 1vh !important;">Основной сайт: <a class="no-dur under tel" href="https://www.asta-auto.ru">www.asta-auto.ru</a></div>
+                    <div class="tel" style="margin-top: 1vh !important;">Основной сайт: <a class="no-dur under tel"
+                            href="https://www.asta-auto.ru">www.asta-auto.ru</a></div>
 
                 </div>
             </div>
@@ -291,6 +306,8 @@
     <script src="../js/form.js"></script>
     <script src="../js/php_form.js"></script>
     <script src="../js/hide.js"></script>
+    <script src="../js/hide2.js"></script>
+
     <script>document.getElementById('year').innerHTML = '© 2004 - ' + new Date().getFullYear() + ' АСТА-АВТО';</script>
 </body>
 

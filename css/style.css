@@ -14,7 +14,9 @@
 #moreText {
     display: none;
 }
-
+#moreText2 {
+    display: none;
+}
 .logo-asta2 {
     top: 1.8vw;
     position: absolute;

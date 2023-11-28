@@ -47,19 +47,22 @@
     font-size: 0.79vw;
 }
 
+
+
 .images-logo2 {
-    width: 4vw !important;
+    width: 8vw !important;
     height: auto !important;
 }
+
 
 .up {
     display: inline-block;
     overflow: hidden;
-    transition: 0.5s;
+    transition: 0.4s;
 }
 
 .up:hover {
-    transform: scale(1.08);
+    transform: scale(1.06);
 }
 
 .caption {
@@ -325,28 +328,28 @@ body {
 .nav-text1 {
     position: absolute;
     z-index: 99;
-    left: 40vw;
+    left: 40.5vw;
     top: 2.6vw;
 }
 
 .nav-text3 {
     position: absolute;
     z-index: 99;
-    left: 55.2vw;
+    left: 60.5vw;
     top: 2.6vw;
 }
 
 .nav-text4 {
     position: absolute;
     z-index: 99;
-    left: 73.3vw;
+    left: 78.6vw;
     top: 2.6vw;
 }
 
 .nav-text5 {
     position: absolute;
     z-index: 99;
-    left: 90.3vw;
+    left: 89.6vw;
     top: 2.6vw;
 }
 
@@ -473,6 +476,12 @@ figure.effect-text-four:hover p {
     display: none !important;
 }
 
+.model{
+    background-color:rgba(0, 0, 0, .3);
+
+}
+
+
 @media (max-width: 600px),
 (max-width: 900px) and (max-height: 1250px) and (min-width: 700px) and (min-height: 900px),
 (max-width: 1100px) and (min-height: 1280px) and (min-width: 950px) and (max-height: 1400px) {
@@ -496,7 +505,7 @@ figure.effect-text-four:hover p {
     }
 
     .images-logo2 {
-        width: 18vw !important;
+        width: 26vw !important;
         height: auto !important;
         /* margin-bottom: 5vw !important; */
     }

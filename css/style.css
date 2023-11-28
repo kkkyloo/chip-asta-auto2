@@ -335,21 +335,21 @@ body {
 .nav-text3 {
     position: absolute;
     z-index: 99;
-    left: 60.5vw;
+    left: 60vw;
     top: 2.6vw;
 }
 
 .nav-text4 {
     position: absolute;
     z-index: 99;
-    left: 78.6vw;
+    left: 78vw;
     top: 2.6vw;
 }
 
 .nav-text5 {
     position: absolute;
     z-index: 99;
-    left: 89.6vw;
+    left: 89vw;
     top: 2.6vw;
 }
 

@@ -491,11 +491,11 @@ figure.effect-text-four:hover p {
         font-size: 3.2vw !important;
     }
     .table {
-        font-size: 16px !important;
+        font-size: 15px !important;
     }
 
     .hover-text-one figure p {
-        font-size: 82%;
+        font-size: 80%;
     }
 
     figure.effect-text-four h4 {
@@ -503,7 +503,7 @@ figure.effect-text-four:hover p {
     }
 
     .hover-text-one figure h4 {
-        font-size: 82%;
+        font-size: 78%;
     }
 
     .images-logo2 {
@@ -712,6 +712,9 @@ figure.effect-text-four:hover p {
     
     figure.effect-text-four h4 {
         top: 69%;
+    }
+    .table {
+        font-size: 18px !important;
     }
 
 

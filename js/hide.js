@@ -15,7 +15,7 @@ function toggleText() {
     else if (computedStyle.display === "inline" && mobNavbar.display === "none" ) {
         moreText.style.display = "none";
         btnText.innerHTML = "Подробнее";
-        imgElement.style.marginTop = '1vh';
+        imgElement.style.marginTop = '3vh';
         imgElement.style.height = '40vh';
 
     }

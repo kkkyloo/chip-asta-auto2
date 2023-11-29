@@ -9,12 +9,15 @@ function toggleText() {
     if (computedStyle.display === "none" && mobNavbar.display === "none") {
         moreText.style.display = "inline";
         btnText.innerHTML = "Скрыть";
-        imgElement.style.height = '78.3vh';
+        imgElement.style.marginTop = '23vh';
+        imgElement.style.height = '60vh';
     } 
     else if (computedStyle.display === "inline" && mobNavbar.display === "none" ) {
         moreText.style.display = "none";
         btnText.innerHTML = "Подробнее";
-        imgElement.style.height = '36vh';
+        imgElement.style.marginTop = '1vh';
+        imgElement.style.height = '40vh';
+
     }
     else if (computedStyle.display === "none" && mobNavbar.display === "block" ) {
         moreText.style.display = "inline";
@@ -42,7 +45,7 @@ function toggleText2() {
     else if (computedStyle.display === "inline" && mobNavbar.display === "none" ) {
         moreText.style.display = "none";
         btnText.innerHTML = "Подробнее";
-        imgElement.style.height = '36vh';
+        imgElement.style.height = '40vh';
     }
     else if (computedStyle.display === "none" && mobNavbar.display === "block" ) {
         moreText.style.display = "inline";
